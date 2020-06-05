@@ -1,0 +1,3 @@
+com\wuhao\dao\UserMapper.class
+com\wuhao\service\impl\UserServiceImpl.class
+com\wuhao\ProviderApplication.class
